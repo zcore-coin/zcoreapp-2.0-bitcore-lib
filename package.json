@@ -41,7 +41,6 @@
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
     "lodash": "=4.17.11",
-    "quark-hash": "https://github.com/apollomatheus/node-quark-hash"
   },
   "devDependencies": {
     "bitcore-build": "https://github.com/zcore-coin/zcoreapp-2.0-bitcore-build#1023e8a99cd42b9241ccafe8e34c52f308c10284",
